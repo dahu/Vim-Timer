@@ -1,0 +1,12 @@
+Vim-Timer
+---------
+
+Periodic timer for Vim.
+
+Continuously calls a user-definable callback function every user-adjustable time period.
+
+Bugs
+----
+
+* Breaks visual mode.
+* Not active in insert mode (currently).
